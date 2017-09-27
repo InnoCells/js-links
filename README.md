@@ -17,6 +17,10 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 #### Redux
 
+#### Functional Programming
+
+- [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo) (video): Brian explains how it is possible to apply functional concepts to "every day" imperative code.
+
 #### More
 
 - [react-redux-links](https://github.com/markerikson/react-redux-links): Extensive list of JavaScript, React and Redux resources
