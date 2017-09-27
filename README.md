@@ -7,6 +7,10 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Our recommended book series about JavaScript.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript): Our chosen JavaScript style guide.
 
+#### Node.js
+
+[Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27): Inspect and debug Node processes with Chrome Dev Tools.
+
 #### React
 
 #### Intermediate React
