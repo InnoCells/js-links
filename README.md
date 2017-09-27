@@ -25,6 +25,8 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 - [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce): companion blog post to the previous video on HOC and why children as a funcion or _"render props"_ are a better choise when trying to share common behaviour between React components.
 
+- [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE) (video): Ryan Florence presents a ReactJS technique called compound components.
+
 #### Redux
 
 #### Functional Programming
