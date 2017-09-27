@@ -11,6 +11,8 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27): Inspect and debug Node processes with Chrome Dev Tools.
 
+[What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+
 #### React
 
 #### Intermediate React
