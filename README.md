@@ -2,6 +2,9 @@
 Curated resource links on the JavaScript ecosystem: React, React Native, Redux, and more...
 
 ## Table of Contents
+#### JavaScript
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Our recommended book series about JavaScript.
 
 #### React
 
