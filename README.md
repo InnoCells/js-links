@@ -9,15 +9,15 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 #### Node.js
 
-[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (video): How JavaScript runs inside the JavaScript engine, what is the event loop, how it works, and more.
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (video): How JavaScript runs inside the JavaScript engine, what is the event loop, how it works, and more.
 
-[What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+- [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 
-[Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27): Inspect and debug Node processes with Chrome Dev Tools.
+- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27): Inspect and debug Node processes with Chrome Dev Tools.
 
 #### React
 
-[React Cheat Sheet](http://reactcheatsheet.com): Quick React API reference.
+- [React Cheat Sheet](http://reactcheatsheet.com): Quick React API reference.
 
 #### Intermediate React
 
