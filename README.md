@@ -17,6 +17,8 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 #### React
 
+[React Cheat Sheet](http://reactcheatsheet.com): Quick React API reference.
+
 #### Intermediate React
 
 - [A deep dive into children in React](http://mxstbr.blog/2017/02/react-children-deepdive/): Little known facts (even for intermediate React devs) about `this.props.children`.
