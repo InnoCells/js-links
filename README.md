@@ -33,6 +33,12 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 
 #### Redux
 
+#### React Native
+
+- [Testing React Native with the Jest  -  Part I](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe): Easily test React Native applications with Jest snapshot testing.
+
+- [Testing React Native with the Jest  -  Part II](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b): Easily test React Native applications with Jest snapshot testing.
+
 #### Functional Programming
 
 - [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo) (video): Brian explains how it is possible to apply functional concepts to "every day" imperative code.
