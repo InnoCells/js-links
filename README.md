@@ -5,6 +5,7 @@ Curated resource links on the JavaScript ecosystem: React, React Native, Redux, 
 #### JavaScript
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Our recommended book series about JavaScript.
+- [Effective Javascript](https://github.com/n0ruSh/the-art-of-reading/blob/master/javascript/Effective%20Javascript/Effective%20JavaScript-68%20Specific%20Ways%20to%20Harness%20the%20Power%20of%20JavaScript.pdf): (pdf) 68 Specific Ways to Harness the Power of JavaScript.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript): Our chosen JavaScript style guide.
 
 #### Node.js
